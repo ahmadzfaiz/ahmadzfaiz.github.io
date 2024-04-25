@@ -1,4 +1,4 @@
-body {
+/* body {
   background-color: rgb(36, 226, 239);
   color: rgb(17, 9, 91);
 }
@@ -6,7 +6,7 @@ body {
 p {
   background-color: pink;
   color: maroon;
-}
+} */
 
 /* .paragraf-khusus {
   background-color: limegreen;
@@ -15,6 +15,10 @@ p {
   font-family: 'Courier New', Courier, monospace;
 } */
 
-#teks-1 {
+/* #teks-1 {
   font-size: 40 !important;
+} */
+
+#peta {
+  height: 400px;
 }
