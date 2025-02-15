@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "objek",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nama": "Bandara El Tari", "foto": "./media/el tari.jpg" }, "geometry": { "type": "Point", "coordinates": [ 123.668061917560848, -10.168150482530184 ] } },
+{ "type": "Feature", "properties": { "nama": "Pelabuhan Ikan Oeba", "foto": "./media/oeba.jpg" }, "geometry": { "type": "Point", "coordinates": [ 123.590571465786468, -10.15382313490273 ] } },
+{ "type": "Feature", "properties": { "nama": "Monumen Tirosa", "foto": ".\/media\/tirosa.jpg" }, "geometry": { "type": "Point", "coordinates": [ 123.632884740433127, -10.156299044405806 ] } }
+]
+}
